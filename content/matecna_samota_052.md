@@ -3,4 +3,4 @@ title: IV\. SMÍŘENÍ
 contentType: poetry
 ---
 
-Vladimíru T.
+_Vladimíru T._

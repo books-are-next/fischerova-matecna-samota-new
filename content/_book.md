@@ -2,19 +2,18 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Matečná samota
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Viola Fischerová
   publisher: Městská knihovna v Praze
   modified: '2021-01-19T00:00:00.000Z'
+  contentType: poetry
+  publisherShort: mkp
 readingOrder:
   - promo.html
-  - matecna_samota_001.html
-  - matecna_samota_002.html
-  - matecna_samota_003.html
-  - matecna_samota_004.html
   - matecna_samota_005.html
   - matecna_samota_006.html
   - matecna_samota_007.html
@@ -83,10 +82,27 @@ readingOrder:
   - matecna_samota_070.html
   - matecna_samota_071.html
   - matecna_samota_072.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: matecna_samota_006.html
+        title: I.
+        hiddenTitle: false
+      - link: matecna_samota_020.html
+        title: II.
+        hiddenTitle: false
+      - link: matecna_samota_036.html
+        title: III.
+        hiddenTitle: false
+      - link: matecna_samota_052.html
+        title: IV. SMÍŘENÍ
+        hiddenTitle: false
+      - link: matecna_samota_059.html
+        title: V.
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

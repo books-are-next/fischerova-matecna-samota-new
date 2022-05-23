@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: δ
+contentType: poetry
 ---
-
-δ
 
 > Je láska  
 > která není  

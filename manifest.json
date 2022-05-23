@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-matecna-samota-0f87535",
-  "revision": "0f87535",
+  "identifier": "fischerova-matecna-samota-cd74bb5",
+  "revision": "cd74bb5",
   "readingOrder": [
     "promo.html",
     "matecna_samota_005.html",
@@ -78,12 +78,11 @@
     "matecna_samota_069.html",
     "matecna_samota_070.html",
     "matecna_samota_071.html",
-    "matecna_samota_072.html",
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon May 23 2022 19:38:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1653334733431
+    "date": "Mon May 23 2022 20:02:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1653336139798
   },
   "documents": [
     {
@@ -1427,26 +1426,6 @@
       "role": "chapter",
       "order": 67,
       "prev": "matecna_samota_070.html",
-      "next": "matecna_samota_072.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Matečná samota",
-      "file": "matecna_samota_072.html",
-      "words": 50,
-      "chars": 323,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 68,
-      "prev": "matecna_samota_071.html",
       "next": "colophon.html",
       "toc": [
         {
@@ -1461,12 +1440,12 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 85,
-      "chars": 577,
-      "ideas": 7,
+      "words": 121,
+      "chars": 778,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
-      "prev": "matecna_samota_072.html",
+      "prev": "matecna_samota_071.html",
       "next": null,
       "toc": [
         {
@@ -1481,14 +1460,14 @@
   ],
   "totals": {
     "all": {
-      "words": 2501,
-      "chars": 12902,
-      "ideas": 708
+      "words": 2487,
+      "chars": 12780,
+      "ideas": 705
     },
     "chapters": {
-      "words": 2411,
-      "chars": 12292,
-      "ideas": 698
+      "words": 2361,
+      "chars": 11969,
+      "ideas": 686
     }
   }
 }

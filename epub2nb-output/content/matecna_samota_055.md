@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: 'χ '
+contentType: poetry
 ---
-
-χ
 
 > Už jsi dvojí  
 > Už tě čas rozštípnul

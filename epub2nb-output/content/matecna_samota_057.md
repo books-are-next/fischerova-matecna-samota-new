@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: ε
+contentType: poetry
 ---
-
-ε
 
 > Ale to co hledáme po celý život  
 > čeho se marně domáháme  

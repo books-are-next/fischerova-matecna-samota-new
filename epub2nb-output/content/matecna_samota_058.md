@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: η
+contentType: poetry
 ---
-
-η
 
 > Je to  
 > ještě prázdný hřbitov?

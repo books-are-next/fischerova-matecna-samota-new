@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 ![](../Images/obalka_matecna_samota.jpg)

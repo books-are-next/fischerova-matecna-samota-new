@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: α
+contentType: poetry
 ---
-
-α
 
 > Už léta nejsem tvá  
 > Z židle tě páčí  

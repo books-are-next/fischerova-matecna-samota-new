@@ -1,6 +1,6 @@
 ---
 title: IV\. SMÍŘENÍ
-contentType: prose
+contentType: poetry
 ---
 
 Vladimíru T.

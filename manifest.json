@@ -1,0 +1,1494 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Matečná samota",
+  "author": "Viola Fischerová",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "fischerova-matecna-samota-0f87535",
+  "revision": "0f87535",
+  "readingOrder": [
+    "promo.html",
+    "matecna_samota_005.html",
+    "matecna_samota_006.html",
+    "matecna_samota_007.html",
+    "matecna_samota_008.html",
+    "matecna_samota_009.html",
+    "matecna_samota_010.html",
+    "matecna_samota_011.html",
+    "matecna_samota_012.html",
+    "matecna_samota_013.html",
+    "matecna_samota_014.html",
+    "matecna_samota_015.html",
+    "matecna_samota_016.html",
+    "matecna_samota_017.html",
+    "matecna_samota_018.html",
+    "matecna_samota_019.html",
+    "matecna_samota_020.html",
+    "matecna_samota_021.html",
+    "matecna_samota_022.html",
+    "matecna_samota_023.html",
+    "matecna_samota_024.html",
+    "matecna_samota_025.html",
+    "matecna_samota_026.html",
+    "matecna_samota_027.html",
+    "matecna_samota_028.html",
+    "matecna_samota_029.html",
+    "matecna_samota_030.html",
+    "matecna_samota_031.html",
+    "matecna_samota_032.html",
+    "matecna_samota_033.html",
+    "matecna_samota_034.html",
+    "matecna_samota_035.html",
+    "matecna_samota_036.html",
+    "matecna_samota_037.html",
+    "matecna_samota_038.html",
+    "matecna_samota_039.html",
+    "matecna_samota_040.html",
+    "matecna_samota_041.html",
+    "matecna_samota_042.html",
+    "matecna_samota_043.html",
+    "matecna_samota_044.html",
+    "matecna_samota_045.html",
+    "matecna_samota_046.html",
+    "matecna_samota_047.html",
+    "matecna_samota_048.html",
+    "matecna_samota_049.html",
+    "matecna_samota_050.html",
+    "matecna_samota_051.html",
+    "matecna_samota_052.html",
+    "matecna_samota_053.html",
+    "matecna_samota_054.html",
+    "matecna_samota_055.html",
+    "matecna_samota_056.html",
+    "matecna_samota_057.html",
+    "matecna_samota_058.html",
+    "matecna_samota_059.html",
+    "matecna_samota_060.html",
+    "matecna_samota_061.html",
+    "matecna_samota_062.html",
+    "matecna_samota_063.html",
+    "matecna_samota_064.html",
+    "matecna_samota_065.html",
+    "matecna_samota_066.html",
+    "matecna_samota_067.html",
+    "matecna_samota_068.html",
+    "matecna_samota_069.html",
+    "matecna_samota_070.html",
+    "matecna_samota_071.html",
+    "matecna_samota_072.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Mon May 23 2022 19:38:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1653334733431
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "matecna_samota_005.html",
+      "toc": []
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_005.html",
+      "words": 32,
+      "chars": 180,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "matecna_samota_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I.",
+      "file": "matecna_samota_006.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "matecna_samota_005.html",
+      "next": "matecna_samota_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_007.html",
+      "words": 35,
+      "chars": 181,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 3,
+      "prev": "matecna_samota_006.html",
+      "next": "matecna_samota_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_008.html",
+      "words": 31,
+      "chars": 164,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 4,
+      "prev": "matecna_samota_007.html",
+      "next": "matecna_samota_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_009.html",
+      "words": 52,
+      "chars": 269,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 5,
+      "prev": "matecna_samota_008.html",
+      "next": "matecna_samota_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_010.html",
+      "words": 18,
+      "chars": 74,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 6,
+      "prev": "matecna_samota_009.html",
+      "next": "matecna_samota_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_011.html",
+      "words": 43,
+      "chars": 236,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 7,
+      "prev": "matecna_samota_010.html",
+      "next": "matecna_samota_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_012.html",
+      "words": 39,
+      "chars": 186,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 8,
+      "prev": "matecna_samota_011.html",
+      "next": "matecna_samota_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_013.html",
+      "words": 31,
+      "chars": 141,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 9,
+      "prev": "matecna_samota_012.html",
+      "next": "matecna_samota_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_014.html",
+      "words": 50,
+      "chars": 241,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 10,
+      "prev": "matecna_samota_013.html",
+      "next": "matecna_samota_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_015.html",
+      "words": 20,
+      "chars": 107,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 11,
+      "prev": "matecna_samota_014.html",
+      "next": "matecna_samota_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_016.html",
+      "words": 24,
+      "chars": 108,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 12,
+      "prev": "matecna_samota_015.html",
+      "next": "matecna_samota_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_017.html",
+      "words": 25,
+      "chars": 127,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 13,
+      "prev": "matecna_samota_016.html",
+      "next": "matecna_samota_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_018.html",
+      "words": 44,
+      "chars": 202,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 14,
+      "prev": "matecna_samota_017.html",
+      "next": "matecna_samota_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_019.html",
+      "words": 37,
+      "chars": 186,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 15,
+      "prev": "matecna_samota_018.html",
+      "next": "matecna_samota_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II.",
+      "file": "matecna_samota_020.html",
+      "words": 1,
+      "chars": 3,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 16,
+      "prev": "matecna_samota_019.html",
+      "next": "matecna_samota_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_021.html",
+      "words": 33,
+      "chars": 184,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 17,
+      "prev": "matecna_samota_020.html",
+      "next": "matecna_samota_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_022.html",
+      "words": 35,
+      "chars": 178,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 18,
+      "prev": "matecna_samota_021.html",
+      "next": "matecna_samota_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_023.html",
+      "words": 42,
+      "chars": 197,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 19,
+      "prev": "matecna_samota_022.html",
+      "next": "matecna_samota_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_024.html",
+      "words": 29,
+      "chars": 154,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 20,
+      "prev": "matecna_samota_023.html",
+      "next": "matecna_samota_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_025.html",
+      "words": 36,
+      "chars": 183,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 21,
+      "prev": "matecna_samota_024.html",
+      "next": "matecna_samota_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_026.html",
+      "words": 30,
+      "chars": 159,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 22,
+      "prev": "matecna_samota_025.html",
+      "next": "matecna_samota_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_027.html",
+      "words": 52,
+      "chars": 248,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 23,
+      "prev": "matecna_samota_026.html",
+      "next": "matecna_samota_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_028.html",
+      "words": 38,
+      "chars": 192,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 24,
+      "prev": "matecna_samota_027.html",
+      "next": "matecna_samota_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_029.html",
+      "words": 55,
+      "chars": 252,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 25,
+      "prev": "matecna_samota_028.html",
+      "next": "matecna_samota_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_030.html",
+      "words": 34,
+      "chars": 175,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 26,
+      "prev": "matecna_samota_029.html",
+      "next": "matecna_samota_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_031.html",
+      "words": 30,
+      "chars": 153,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 27,
+      "prev": "matecna_samota_030.html",
+      "next": "matecna_samota_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_032.html",
+      "words": 25,
+      "chars": 124,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 28,
+      "prev": "matecna_samota_031.html",
+      "next": "matecna_samota_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_033.html",
+      "words": 44,
+      "chars": 230,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 29,
+      "prev": "matecna_samota_032.html",
+      "next": "matecna_samota_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_034.html",
+      "words": 37,
+      "chars": 201,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 30,
+      "prev": "matecna_samota_033.html",
+      "next": "matecna_samota_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_035.html",
+      "words": 37,
+      "chars": 174,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 31,
+      "prev": "matecna_samota_034.html",
+      "next": "matecna_samota_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III.",
+      "file": "matecna_samota_036.html",
+      "words": 1,
+      "chars": 4,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 32,
+      "prev": "matecna_samota_035.html",
+      "next": "matecna_samota_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_037.html",
+      "words": 57,
+      "chars": 293,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 33,
+      "prev": "matecna_samota_036.html",
+      "next": "matecna_samota_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_038.html",
+      "words": 65,
+      "chars": 317,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 34,
+      "prev": "matecna_samota_037.html",
+      "next": "matecna_samota_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_039.html",
+      "words": 38,
+      "chars": 213,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 35,
+      "prev": "matecna_samota_038.html",
+      "next": "matecna_samota_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_040.html",
+      "words": 36,
+      "chars": 193,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 36,
+      "prev": "matecna_samota_039.html",
+      "next": "matecna_samota_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_041.html",
+      "words": 22,
+      "chars": 114,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 37,
+      "prev": "matecna_samota_040.html",
+      "next": "matecna_samota_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_042.html",
+      "words": 28,
+      "chars": 135,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 38,
+      "prev": "matecna_samota_041.html",
+      "next": "matecna_samota_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_043.html",
+      "words": 32,
+      "chars": 153,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 39,
+      "prev": "matecna_samota_042.html",
+      "next": "matecna_samota_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_044.html",
+      "words": 39,
+      "chars": 222,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 40,
+      "prev": "matecna_samota_043.html",
+      "next": "matecna_samota_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_045.html",
+      "words": 61,
+      "chars": 323,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 41,
+      "prev": "matecna_samota_044.html",
+      "next": "matecna_samota_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_046.html",
+      "words": 33,
+      "chars": 188,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 42,
+      "prev": "matecna_samota_045.html",
+      "next": "matecna_samota_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_047.html",
+      "words": 43,
+      "chars": 222,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 43,
+      "prev": "matecna_samota_046.html",
+      "next": "matecna_samota_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_048.html",
+      "words": 34,
+      "chars": 160,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 44,
+      "prev": "matecna_samota_047.html",
+      "next": "matecna_samota_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_049.html",
+      "words": 44,
+      "chars": 195,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 45,
+      "prev": "matecna_samota_048.html",
+      "next": "matecna_samota_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_050.html",
+      "words": 41,
+      "chars": 224,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 46,
+      "prev": "matecna_samota_049.html",
+      "next": "matecna_samota_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_051.html",
+      "words": 57,
+      "chars": 304,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 47,
+      "prev": "matecna_samota_050.html",
+      "next": "matecna_samota_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV. SMÍŘENÍ",
+      "file": "matecna_samota_052.html",
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 48,
+      "prev": "matecna_samota_051.html",
+      "next": "matecna_samota_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV. SMÍŘENÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "α",
+      "file": "matecna_samota_053.html",
+      "words": 24,
+      "chars": 110,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 49,
+      "prev": "matecna_samota_052.html",
+      "next": "matecna_samota_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "α",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "β",
+      "file": "matecna_samota_054.html",
+      "words": 45,
+      "chars": 226,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 50,
+      "prev": "matecna_samota_053.html",
+      "next": "matecna_samota_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "β",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "χ",
+      "file": "matecna_samota_055.html",
+      "words": 30,
+      "chars": 139,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 51,
+      "prev": "matecna_samota_054.html",
+      "next": "matecna_samota_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "χ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "δ",
+      "file": "matecna_samota_056.html",
+      "words": 29,
+      "chars": 153,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 52,
+      "prev": "matecna_samota_055.html",
+      "next": "matecna_samota_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "δ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ε",
+      "file": "matecna_samota_057.html",
+      "words": 38,
+      "chars": 183,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 53,
+      "prev": "matecna_samota_056.html",
+      "next": "matecna_samota_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ε",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "η",
+      "file": "matecna_samota_058.html",
+      "words": 23,
+      "chars": 126,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 54,
+      "prev": "matecna_samota_057.html",
+      "next": "matecna_samota_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "η",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V.",
+      "file": "matecna_samota_059.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 55,
+      "prev": "matecna_samota_058.html",
+      "next": "matecna_samota_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_060.html",
+      "words": 27,
+      "chars": 154,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 56,
+      "prev": "matecna_samota_059.html",
+      "next": "matecna_samota_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_061.html",
+      "words": 36,
+      "chars": 183,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 57,
+      "prev": "matecna_samota_060.html",
+      "next": "matecna_samota_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_062.html",
+      "words": 26,
+      "chars": 158,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 58,
+      "prev": "matecna_samota_061.html",
+      "next": "matecna_samota_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_063.html",
+      "words": 33,
+      "chars": 163,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 59,
+      "prev": "matecna_samota_062.html",
+      "next": "matecna_samota_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_064.html",
+      "words": 41,
+      "chars": 194,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 60,
+      "prev": "matecna_samota_063.html",
+      "next": "matecna_samota_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_065.html",
+      "words": 67,
+      "chars": 315,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 61,
+      "prev": "matecna_samota_064.html",
+      "next": "matecna_samota_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_066.html",
+      "words": 58,
+      "chars": 262,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 62,
+      "prev": "matecna_samota_065.html",
+      "next": "matecna_samota_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_067.html",
+      "words": 46,
+      "chars": 252,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 63,
+      "prev": "matecna_samota_066.html",
+      "next": "matecna_samota_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_068.html",
+      "words": 52,
+      "chars": 283,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 64,
+      "prev": "matecna_samota_067.html",
+      "next": "matecna_samota_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_069.html",
+      "words": 22,
+      "chars": 109,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 65,
+      "prev": "matecna_samota_068.html",
+      "next": "matecna_samota_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_070.html",
+      "words": 64,
+      "chars": 343,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 66,
+      "prev": "matecna_samota_069.html",
+      "next": "matecna_samota_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_071.html",
+      "words": 26,
+      "chars": 132,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 67,
+      "prev": "matecna_samota_070.html",
+      "next": "matecna_samota_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matečná samota",
+      "file": "matecna_samota_072.html",
+      "words": 50,
+      "chars": 323,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 68,
+      "prev": "matecna_samota_071.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 85,
+      "chars": 577,
+      "ideas": 7,
+      "role": "colophon",
+      "order": null,
+      "prev": "matecna_samota_072.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 2501,
+      "chars": 12902,
+      "ideas": 708
+    },
+    "chapters": {
+      "words": 2411,
+      "chars": 12292,
+      "ideas": 698
+    }
+  }
+}

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: β
+contentType: poetry
 ---
-
-β
 
 > To je ta láska  
 > která mě kdysi pozvedla  

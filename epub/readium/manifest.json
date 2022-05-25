@@ -1,0 +1,609 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Matečná samota",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Viola Fischerová",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-01-18T23:00:00.000Z",
+    "published": "2021-01-12T23:00:00.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/matecna_samota_072.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_matecna_samota.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "I.",
+      "children": [
+        {
+          "title": "U domu dětství",
+          "href": "OEBPS/Text/matecna_samota_007.xhtml#_idParaDest-2"
+        },
+        {
+          "title": "Pane nejsem hodna",
+          "href": "OEBPS/Text/matecna_samota_008.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "Nastává Tvá lidská hodina",
+          "href": "OEBPS/Text/matecna_samota_009.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Být v Tobě",
+          "href": "OEBPS/Text/matecna_samota_010.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Jako ptáci ranním křikem",
+          "href": "OEBPS/Text/matecna_samota_011.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "U Tebe v chrámu",
+          "href": "OEBPS/Text/matecna_samota_012.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Nemít v sobě Tvůj úkryt",
+          "href": "OEBPS/Text/matecna_samota_013.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Co si počneme",
+          "href": "OEBPS/Text/matecna_samota_014.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "Schoulené tělo",
+          "href": "OEBPS/Text/matecna_samota_015.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "Pane dal jsi mi můj osud",
+          "href": "OEBPS/Text/matecna_samota_016.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Skrytě temné chvění",
+          "href": "OEBPS/Text/matecna_samota_017.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "Co nakreslím",
+          "href": "OEBPS/Text/matecna_samota_018.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "Občas mi Pane na vteřinu",
+          "href": "OEBPS/Text/matecna_samota_019.xhtml#_idParaDest-14"
+        }
+      ],
+      "href": "OEBPS/Text/matecna_samota_006.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "II.",
+      "children": [
+        {
+          "title": "Jsem pokojná a mírná",
+          "href": "OEBPS/Text/matecna_samota_021.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "Protože věříš",
+          "href": "OEBPS/Text/matecna_samota_022.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Nejde o milence",
+          "href": "OEBPS/Text/matecna_samota_023.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Už skoro jsme",
+          "href": "OEBPS/Text/matecna_samota_024.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Za patami přátel",
+          "href": "OEBPS/Text/matecna_samota_025.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Osiky se v poledne chvěly",
+          "href": "OEBPS/Text/matecna_samota_026.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Ta vteřina",
+          "href": "OEBPS/Text/matecna_samota_027.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Pořád někdo je a není",
+          "href": "OEBPS/Text/matecna_samota_028.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "To se ti podobá",
+          "href": "OEBPS/Text/matecna_samota_029.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "Tvoje stáří je starší",
+          "href": "OEBPS/Text/matecna_samota_030.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "Co pustých jeskyní",
+          "href": "OEBPS/Text/matecna_samota_031.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Je ti sedmnáct",
+          "href": "OEBPS/Text/matecna_samota_032.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Slunná vůně dubna",
+          "href": "OEBPS/Text/matecna_samota_033.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "Vymknout se",
+          "href": "OEBPS/Text/matecna_samota_034.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "A komu co říct",
+          "href": "OEBPS/Text/matecna_samota_035.xhtml#_idParaDest-30"
+        }
+      ],
+      "href": "OEBPS/Text/matecna_samota_020.xhtml#_idParaDest-15"
+    },
+    {
+      "title": "III.",
+      "children": [
+        {
+          "title": "Zaliti v světle říjnového lesa",
+          "href": "OEBPS/Text/matecna_samota_037.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "Dnes v noci jsi bořil",
+          "href": "OEBPS/Text/matecna_samota_038.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "Měkce se šíří povětří",
+          "href": "OEBPS/Text/matecna_samota_039.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "V poledne jsem seděla",
+          "href": "OEBPS/Text/matecna_samota_040.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "Zítra tě uvidím",
+          "href": "OEBPS/Text/matecna_samota_041.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "Zítra tě uvidím",
+          "href": "OEBPS/Text/matecna_samota_042.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "Ještě pořád jsi krásný",
+          "href": "OEBPS/Text/matecna_samota_043.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "Po celou cestu",
+          "href": "OEBPS/Text/matecna_samota_044.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "Vracet se",
+          "href": "OEBPS/Text/matecna_samota_045.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "Tvoje paže",
+          "href": "OEBPS/Text/matecna_samota_046.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "Nakonec",
+          "href": "OEBPS/Text/matecna_samota_047.xhtml#_idParaDest-42"
+        },
+        {
+          "title": "Blížíš se ke mně",
+          "href": "OEBPS/Text/matecna_samota_048.xhtml#_idParaDest-43"
+        },
+        {
+          "title": "Zjara ještě stará dáma",
+          "href": "OEBPS/Text/matecna_samota_049.xhtml#_idParaDest-44"
+        },
+        {
+          "title": "Odnést si",
+          "href": "OEBPS/Text/matecna_samota_050.xhtml#_idParaDest-45"
+        },
+        {
+          "title": "Rozšlapané sandály muže",
+          "href": "OEBPS/Text/matecna_samota_051.xhtml#_idParaDest-46"
+        }
+      ],
+      "href": "OEBPS/Text/matecna_samota_036.xhtml#_idParaDest-31"
+    },
+    {
+      "title": "IV. SMÍŘENÍ",
+      "children": [
+        {
+          "title": "α – Už léta nejsem tvá",
+          "href": "OEBPS/Text/matecna_samota_053.xhtml#_idParaDest-48"
+        },
+        {
+          "title": "β – To je ta láska",
+          "href": "OEBPS/Text/matecna_samota_054.xhtml#_idParaDest-49"
+        },
+        {
+          "title": "χ – Už jsi dvojí",
+          "href": "OEBPS/Text/matecna_samota_055.xhtml#_idParaDest-50"
+        },
+        {
+          "title": "δ – Je láska",
+          "href": "OEBPS/Text/matecna_samota_056.xhtml#_idParaDest-51"
+        },
+        {
+          "title": "ε – Ale co to hledáme",
+          "href": "OEBPS/Text/matecna_samota_057.xhtml#_idParaDest-52"
+        },
+        {
+          "title": "η – Je to",
+          "href": "OEBPS/Text/matecna_samota_058.xhtml#_idParaDest-53"
+        }
+      ],
+      "href": "OEBPS/Text/matecna_samota_052.xhtml#_idParaDest-47"
+    },
+    {
+      "title": "V.",
+      "children": [
+        {
+          "title": "Zahrada bílá",
+          "href": "OEBPS/Text/matecna_samota_060.xhtml#_idParaDest-55"
+        },
+        {
+          "title": "Udržet tvar",
+          "href": "OEBPS/Text/matecna_samota_061.xhtml#_idParaDest-56"
+        },
+        {
+          "title": "Oni jsou ještě polobozi",
+          "href": "OEBPS/Text/matecna_samota_062.xhtml#_idParaDest-57"
+        },
+        {
+          "title": "Jednou",
+          "href": "OEBPS/Text/matecna_samota_063.xhtml#_idParaDest-58"
+        },
+        {
+          "title": "V tom snu",
+          "href": "OEBPS/Text/matecna_samota_064.xhtml#_idParaDest-59"
+        },
+        {
+          "title": "Horko",
+          "href": "OEBPS/Text/matecna_samota_065.xhtml#_idParaDest-60"
+        },
+        {
+          "title": "Pokolikáté kavárna",
+          "href": "OEBPS/Text/matecna_samota_066.xhtml#_idParaDest-61"
+        },
+        {
+          "title": "Nejspíš neměli na čem sedět",
+          "href": "OEBPS/Text/matecna_samota_067.xhtml#_idParaDest-62"
+        },
+        {
+          "title": "Po tom prvním",
+          "href": "OEBPS/Text/matecna_samota_068.xhtml#_idParaDest-63"
+        },
+        {
+          "title": "Snuji svoje pavučiny",
+          "href": "OEBPS/Text/matecna_samota_069.xhtml#_idParaDest-64"
+        },
+        {
+          "title": "Všechno začalo nevinně",
+          "href": "OEBPS/Text/matecna_samota_070.xhtml#_idParaDest-65"
+        },
+        {
+          "title": "Bez záruk trvat na svém",
+          "href": "OEBPS/Text/matecna_samota_071.xhtml#_idParaDest-66"
+        }
+      ],
+      "href": "OEBPS/Text/matecna_samota_059.xhtml#_idParaDest-54"
+    }
+  ]
+}

@@ -8,12 +8,18 @@ contentType: poetry
 > až kdoví kam  
 > a stejně ponížila
 
+  
+
 > Má touha  
 > kterou jsem zavrhla
+
+  
 
 > Občas ji potkávám  
 > Zbělela ztloustla  
 > a ztuhle se šourá
+
+  
 
 > Jak bych se nadechla  
 > kdyby se náhle protáhla —  

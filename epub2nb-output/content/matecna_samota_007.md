@@ -11,6 +11,8 @@ U domu dětství
 > kterého uvidím za pár dní  
 > rozhozeného v krvi pod koly
 
+  
+
 > Pane vrať mi tu úzkost o duši  
 > již jsi dal unést  
 > osmiletému dítěti

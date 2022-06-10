@@ -6,7 +6,11 @@ contentType: poetry
 
 >   
 
+  
+
 >   
+
+  
 
 Měkce se šíří povětří
 
@@ -14,10 +18,14 @@ Měkce se šíří povětří
 > Tahle vlahá peruť tě znala  
 > jenom si nevzpomínám kde
 
+  
+
 > Na sněhu v polích  
 > domáhajíc se krajiny  
 > nacházím po týdnech vypouklé křížky  
 > svých podešví
+
+  
 
 > Mokrou stopu psice  
 > už chytla hlína

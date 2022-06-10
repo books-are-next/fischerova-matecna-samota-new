@@ -6,7 +6,11 @@ contentType: poetry
 
 >   
 
+  
+
 >   
+
+  
 
 A komu co říct
 
@@ -14,8 +18,12 @@ A komu co říct
 > šeptem či hlasem v závrati  
 > tvůj nahý pocit
 
+  
+
 > svěřený v trvání vteřiny  
 > druhé kůži a duši
+
+  
 
 > když nikdo ani nezatuší  
 > co neřekneš  

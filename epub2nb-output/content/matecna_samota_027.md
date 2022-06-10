@@ -4,13 +4,19 @@ hiddenTitle: true
 contentType: poetry
 ---
 
->   
-
-  
+<section>
 
 >   
 
-  
+</section>
+
+<section>
+
+>   
+
+</section>
+
+<section>
 
 _J. M._
 
@@ -26,3 +32,5 @@ Ta vteřina byla slunná a vlídná
 > kde spolu líhali  
 > nachází rozptýlenou v trávě  
 > jenom ji
+
+</section>

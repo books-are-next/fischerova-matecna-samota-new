@@ -4,13 +4,19 @@ hiddenTitle: true
 contentType: poetry
 ---
 
->   
-
-  
+<section>
 
 >   
 
-  
+</section>
+
+<section>
+
+>   
+
+</section>
+
+<section>
 
 Nejspíš neměli na čem sedět
 
@@ -20,16 +26,22 @@ Nejspíš neměli na čem sedět
 > stolek  
 > a molitan
 
-  
+</section>
+
+<section>
 
 > Jen stojací lampu  
 > s loďmi na stínidle  
 > rozdupali a zkřivili
 
-  
+</section>
+
+<section>
 
 > Náš první domov ve Vogesenstrasse  
 > kde v jasu pluly plachetnice  
 > nebyla křesla  
 > nebyl stolek  
 > ani molitan
+
+</section>

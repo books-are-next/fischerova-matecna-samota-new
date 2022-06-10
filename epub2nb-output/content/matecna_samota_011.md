@@ -4,13 +4,19 @@ hiddenTitle: true
 contentType: poetry
 ---
 
->   
-
-  
+<section>
 
 >   
 
-  
+</section>
+
+<section>
+
+>   
+
+</section>
+
+<section>
 
 Jako ptáci ranním křikem
 
@@ -18,19 +24,27 @@ Jako ptáci ranním křikem
 > kde kříž ani kaple  
 > nejsou z našeho kamene
 
-  
+</section>
+
+<section>
 
 > Taky jsme nepřijali cizí  
 > pod střechu ani do zahrady  
 > maličké
 
-  
+</section>
+
+<section>
 
 > Nesmýšleli jsme Pane zle  
 > Vymni jen z lepších skutků  
 > co navěky neznamená  
 > Naše jména
 
-  
+</section>
+
+<section>
 
 > O to Tě prosíme
+
+</section>

@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-matecna-samota-140d996",
-  "revision": "140d996",
+  "identifier": "fischerova-matecna-samota-8988031",
+  "revision": "8988031",
   "readingOrder": [
     "promo.html",
     "matecna_samota_005.html",
@@ -81,8 +81,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:16:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870610385
+    "date": "Fri Jun 10 2022 17:49:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883364422
   },
   "documents": [
     {
@@ -1040,9 +1040,9 @@
     {
       "title": "IV. SMÍŘENÍ",
       "file": "matecna_samota_052.html",
-      "words": 2,
-      "chars": 11,
-      "ideas": 1,
+      "words": 4,
+      "chars": 23,
+      "ideas": 2,
       "role": "chapter",
       "order": 48,
       "prev": "matecna_samota_051.html",
@@ -1440,9 +1440,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 121,
-      "chars": 778,
-      "ideas": 16,
+      "words": 85,
+      "chars": 577,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "matecna_samota_071.html",
@@ -1460,14 +1460,14 @@
   ],
   "totals": {
     "all": {
-      "words": 2487,
-      "chars": 12780,
-      "ideas": 705
+      "words": 2453,
+      "chars": 12591,
+      "ideas": 697
     },
     "chapters": {
-      "words": 2361,
-      "chars": 11969,
-      "ideas": 686
+      "words": 2363,
+      "chars": 11981,
+      "ideas": 687
     }
   }
 }

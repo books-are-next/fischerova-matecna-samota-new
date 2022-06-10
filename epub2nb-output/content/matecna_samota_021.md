@@ -4,13 +4,19 @@ hiddenTitle: true
 contentType: poetry
 ---
 
->   
-
-  
+<section>
 
 >   
 
-  
+</section>
+
+<section>
+
+>   
+
+</section>
+
+<section>
 
 _Kurtovi_
 
@@ -21,14 +27,20 @@ Jsem pokojná a mírná
 > bílí a ploší  
 > jako perníkoví Mikuláši zezadu
 
-  
+</section>
+
+<section>
 
 > Dostávám jim  
 > a nechybím
 
-  
+</section>
+
+<section>
 
 > Jenom se vyhnout  
 > Jednomu doteku  
 > oblému rameni  
 > oblé paži
+
+</section>

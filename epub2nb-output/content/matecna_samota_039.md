@@ -4,13 +4,19 @@ hiddenTitle: true
 contentType: poetry
 ---
 
->   
-
-  
+<section>
 
 >   
 
-  
+</section>
+
+<section>
+
+>   
+
+</section>
+
+<section>
 
 Měkce se šíří povětří
 
@@ -18,14 +24,20 @@ Měkce se šíří povětří
 > Tahle vlahá peruť tě znala  
 > jenom si nevzpomínám kde
 
-  
+</section>
+
+<section>
 
 > Na sněhu v polích  
 > domáhajíc se krajiny  
 > nacházím po týdnech vypouklé křížky  
 > svých podešví
 
-  
+</section>
+
+<section>
 
 > Mokrou stopu psice  
 > už chytla hlína
+
+</section>

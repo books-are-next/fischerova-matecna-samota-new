@@ -8,6 +8,8 @@ contentType: poetry
 > tvoje paže  
 > s fialovýma rukama
 
+  
+
 > Ty dávno živé ruce  
 > Pod kterými jsem žila  
 > a sténala

@@ -6,7 +6,11 @@ contentType: poetry
 
 >   
 
+  
+
 >   
+
+  
 
 Nastává Tvá lidská hodina
 
@@ -21,5 +25,7 @@ Nastává Tvá lidská hodina
 > Nastala Tvá lidská hodina  
 > Potřeba prosit za Tebe  
 > mezi mokrými stromy v lese
+
+  
 
 _Na Velký pátek 1996_

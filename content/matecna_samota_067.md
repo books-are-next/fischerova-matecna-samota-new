@@ -6,7 +6,11 @@ contentType: poetry
 
 >   
 
+  
+
 >   
+
+  
 
 Nejspíš neměli na čem sedět
 
@@ -16,9 +20,13 @@ Nejspíš neměli na čem sedět
 > stolek  
 > a molitan
 
+  
+
 > Jen stojací lampu  
 > s loďmi na stínidle  
 > rozdupali a zkřivili
+
+  
 
 > Náš první domov ve Vogesenstrasse  
 > kde v jasu pluly plachetnice  

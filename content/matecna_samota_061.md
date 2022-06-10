@@ -6,7 +6,11 @@ contentType: poetry
 
 >   
 
+  
+
 >   
+
+  
 
 Udržet tvar za každou cenu
 
@@ -14,12 +18,18 @@ Udržet tvar za každou cenu
 > k tomu co bude vzato  
 > tělu
 
+  
+
 > Nič si ho jitřením  
 > jež není pro smrtelné navěky
+
+  
 
 > Ale udržuj tvar  
 > zuby nehty  
 > A zbytek předej  
 > čistému ohni
+
+  
 
 _Lázně Třeboň, únor 2000_

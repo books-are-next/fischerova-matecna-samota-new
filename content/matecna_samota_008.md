@@ -6,7 +6,11 @@ contentType: poetry
 
 >   
 
+  
+
 >   
+
+  
 
 _Zoe Hauptové_
 
@@ -21,5 +25,7 @@ Pane nejsem hodna
 > mnohost v tkvění  
 > tíha laty  
 > bělomodrý hrozen
+
+  
 
 > Amen

@@ -6,7 +6,11 @@ contentType: poetry
 
 >   
 
+  
+
 >   
+
+  
 
 Zjara ještě stará dáma
 
@@ -14,12 +18,18 @@ Zjara ještě stará dáma
 > Teď v zšeřelém zimním pokoji  
 > jenom jí
 
+  
+
 > cpe do sebe lžící a prsty  
 > hovězí s mrkví a brambory  
 > a lačně mlaská
 
+  
+
 > jak už jen její tělo ví  
 > o co tu jde  
 > a že umře
+
+  
 
 > pozítří

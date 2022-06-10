@@ -6,7 +6,11 @@ contentType: poetry
 
 >   
 
+  
+
 >   
+
+  
 
 Nemít v sobě Tvůj úkryt
 
@@ -14,10 +18,16 @@ Nemít v sobě Tvůj úkryt
 > laskavé světlo ze tmy  
 > ke mně
 
+  
+
 > Je advent
+
+  
 
 > Mrtvý muž na kříži  
 > se musí narodit
+
+  
 
 > Pane  
 > dej mi svůj úkryt ve mně

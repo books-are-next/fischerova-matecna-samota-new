@@ -5,7 +5,11 @@ contentType: poetry
 
 >   
 
+  
+
 >   
+
+  
 
 _V kolika barvách tu vidíš fialovou  
 v tolika dnech uplyne léto  

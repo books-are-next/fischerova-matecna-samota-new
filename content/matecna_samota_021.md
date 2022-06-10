@@ -6,7 +6,11 @@ contentType: poetry
 
 >   
 
+  
+
 >   
+
+  
 
 _Kurtovi_
 
@@ -17,8 +21,12 @@ Jsem pokojná a mírná
 > bílí a ploší  
 > jako perníkoví Mikuláši zezadu
 
+  
+
 > Dostávám jim  
 > a nechybím
+
+  
 
 > Jenom se vyhnout  
 > Jednomu doteku  

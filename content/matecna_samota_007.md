@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 U domu dětství
 
 > se udál ten hřích  
@@ -11,8 +13,12 @@ U domu dětství
 > kterého uvidím za pár dní  
 > rozhozeného v krvi pod koly
 
-  
+</section>
+
+<section>
 
 > Pane vrať mi tu úzkost o duši  
 > již jsi dal unést  
 > osmiletému dítěti
+
+</section>

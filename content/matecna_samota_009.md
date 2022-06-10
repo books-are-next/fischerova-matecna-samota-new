@@ -4,13 +4,19 @@ hiddenTitle: true
 contentType: poetry
 ---
 
->   
-
-  
+<section>
 
 >   
 
-  
+</section>
+
+<section>
+
+>   
+
+</section>
+
+<section>
 
 Nastává Tvá lidská hodina
 
@@ -26,6 +32,10 @@ Nastává Tvá lidská hodina
 > Potřeba prosit za Tebe  
 > mezi mokrými stromy v lese
 
-  
+</section>
+
+<section>
 
 _Na Velký pátek 1996_
+
+</section>

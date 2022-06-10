@@ -4,13 +4,19 @@ hiddenTitle: true
 contentType: poetry
 ---
 
->   
-
-  
+<section>
 
 >   
 
-  
+</section>
+
+<section>
+
+>   
+
+</section>
+
+<section>
 
 Snuji svoje pavučiny
 
@@ -18,9 +24,13 @@ Snuji svoje pavučiny
 > Je to tak smutné  
 > je to tak smutné
 
-  
+</section>
+
+<section>
 
 > Přiznávám se  
 > Jsem veselý pes  
 > Ale někde  
 > musím bydlet
+
+</section>

@@ -4,20 +4,28 @@ hiddenTitle: true
 contentType: poetry
 ---
 
->   
-
-  
+<section>
 
 >   
 
-  
+</section>
+
+<section>
+
+>   
+
+</section>
+
+<section>
 
 Vracet se třicet let
 
 > rok co rok  
 > na totéž místo
 
-  
+</section>
+
+<section>
 
 > S tím dávno mrtvým  
 > jsme přijížděli autobusem  
@@ -25,21 +33,29 @@ Vracet se třicet let
 > pod nebem světlým  
 > jako do Betléma
 
-  
+</section>
+
+<section>
 
 > tolik hvězd na dotek  
 > černé pinie borovice  
 > a cypřiše
 
-  
+</section>
+
+<section>
 
 > Nic se nemění  
 > S přáteli autem  
 > přijíždíme dřív
 
-  
+</section>
+
+<section>
 
 > Já do té tmy vyprahlé krajiny  
 > pod světlým nebem s mrtvými  
 > černou pinií borovicí  
 > a cypřiši
+
+</section>

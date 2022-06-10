@@ -3,13 +3,19 @@ title: ''
 contentType: poetry
 ---
 
->   
-
-  
+<section>
 
 >   
 
-  
+</section>
+
+<section>
+
+>   
+
+</section>
+
+<section>
 
 _V kolika barvách tu vidíš fialovou  
 v tolika dnech uplyne léto  
@@ -22,3 +28,5 @@ _A mysl co prsten
 stahující se kolem čehosi živoucího_
 
 — Sylvia Plathová
+
+</section>

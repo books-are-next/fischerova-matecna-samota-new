@@ -4,13 +4,19 @@ hiddenTitle: true
 contentType: poetry
 ---
 
->   
-
-  
+<section>
 
 >   
 
-  
+</section>
+
+<section>
+
+>   
+
+</section>
+
+<section>
 
 V poledne jsem seděla na lavičce
 
@@ -18,7 +24,9 @@ V poledne jsem seděla na lavičce
 > Vyprávěl mi o žlutém šeříku  
 > který jsem nikdy neviděla
 
-  
+</section>
+
+<section>
 
 > Byl vyschlý a voněl sluncem  
 > a vůní  
@@ -26,3 +34,5 @@ V poledne jsem seděla na lavičce
 > nosila hlavu  
 > kterou jsem chytala  
 > rukama nohama
+
+</section>

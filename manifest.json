@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-matecna-samota-b71c82a",
-  "revision": "b71c82a",
+  "identifier": "fischerova-matecna-samota-8d421de",
+  "revision": "8d421de",
   "readingOrder": [
     "promo.html",
     "matecna_samota_005.html",
@@ -81,8 +81,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:53:41 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157221886
+    "date": "Wed Jun 15 2022 05:49:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272160278
   },
   "documents": [
     {
@@ -1440,8 +1440,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 121,
-      "chars": 778,
+      "words": 135,
+      "chars": 885,
       "ideas": 16,
       "role": "colophon",
       "order": null,
@@ -1460,8 +1460,8 @@
   ],
   "totals": {
     "all": {
-      "words": 2489,
-      "chars": 12792,
+      "words": 2503,
+      "chars": 12899,
       "ideas": 706
     },
     "chapters": {

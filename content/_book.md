@@ -12,6 +12,7 @@ meta:
   modified: '2021-01-19T00:00:00.000Z'
   contentType: poetry
   publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
   - matecna_samota_005.html

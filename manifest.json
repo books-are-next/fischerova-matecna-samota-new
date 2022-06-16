@@ -5,10 +5,11 @@
   "title": "Matečná samota",
   "author": "Viola Fischerová",
   "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-matecna-samota-8d421de",
-  "revision": "8d421de",
+  "identifier": "fischerova-matecna-samota-e70288b",
+  "revision": "e70288b",
   "readingOrder": [
     "promo.html",
     "matecna_samota_005.html",
@@ -81,8 +82,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:49:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272160278
+    "date": "Thu Jun 16 2022 07:29:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364553738
   },
   "documents": [
     {
@@ -1460,9 +1461,9 @@
   ],
   "totals": {
     "all": {
-      "words": 2503,
-      "chars": 12899,
-      "ideas": 706
+      "words": 2504,
+      "chars": 12905,
+      "ideas": 707
     },
     "chapters": {
       "words": 2363,

@@ -25,11 +25,12 @@
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
+      "centered": "",
+      "verse": "MLP-verse\nMLP-verse.+\nFAKE_NAZEV_BASNE\nMLP_verse_-0-12-\nMLP_verse_-12-12-",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat\nMLP_text_uprostred_-I-",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
-      "ignore": "",
-      "verse": "MLP-verse\nMLP-verse.+"
+      "ignore": ""
     },
     "structure": [
       {
@@ -95,8 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": ""
+            "title": "",
+            "children": []
           },
           {
             "filename": "matecna_samota_006.md",
@@ -119,9 +120,9 @@
                 "inToc": true,
                 "hungry": false,
                 "devoured": false,
-                "hiddenTitle": true,
-                "children": [],
-                "title": "U domu dětství"
+                "hiddenTitle": false,
+                "title": "U domu dětství",
+                "children": []
               },
               {
                 "filename": "matecna_samota_008.md",
@@ -133,8 +134,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Pane nejsem hodna"
+                "title": "Pane nejsem hodna",
+                "children": []
               },
               {
                 "filename": "matecna_samota_009.md",
@@ -146,8 +147,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Nastává Tvá lidská hodina"
+                "title": "Nastává Tvá lidská hodina",
+                "children": []
               },
               {
                 "filename": "matecna_samota_010.md",
@@ -159,8 +160,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Být v Tobě"
+                "title": "Být v Tobě",
+                "children": []
               },
               {
                 "filename": "matecna_samota_011.md",
@@ -172,8 +173,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Jako ptáci ranním křikem"
+                "title": "Jako ptáci ranním křikem",
+                "children": []
               },
               {
                 "filename": "matecna_samota_012.md",
@@ -185,8 +186,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "U Tebe v chrámu, Pane"
+                "title": "U Tebe v chrámu, Pane",
+                "children": []
               },
               {
                 "filename": "matecna_samota_013.md",
@@ -198,8 +199,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Nemít v sobě Tvůj úkryt"
+                "title": "Nemít v sobě Tvůj úkryt",
+                "children": []
               },
               {
                 "filename": "matecna_samota_014.md",
@@ -211,8 +212,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Co si počneme Pane"
+                "title": "Co si počneme Pane",
+                "children": []
               },
               {
                 "filename": "matecna_samota_015.md",
@@ -224,8 +225,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Schoulené tělo"
+                "title": "Schoulené tělo",
+                "children": []
               },
               {
                 "filename": "matecna_samota_016.md",
@@ -237,8 +238,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Pane dal jsi mi můj osud"
+                "title": "Pane dal jsi mi můj osud",
+                "children": []
               },
               {
                 "filename": "matecna_samota_017.md",
@@ -250,8 +251,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Skrytě temné chvění listí"
+                "title": "Skrytě temné chvění listí",
+                "children": []
               },
               {
                 "filename": "matecna_samota_018.md",
@@ -263,8 +264,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Co nakreslím Pane"
+                "title": "Co nakreslím Pane",
+                "children": []
               },
               {
                 "filename": "matecna_samota_019.md",
@@ -276,8 +277,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Občas mi Pane na vteřinu"
+                "title": "Občas mi Pane na vteřinu",
+                "children": []
               }
             ]
           },
@@ -303,8 +304,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Jsem pokojná a mírná"
+                "title": "Jsem pokojná a mírná",
+                "children": []
               },
               {
                 "filename": "matecna_samota_022.md",
@@ -316,8 +317,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Protože věříš"
+                "title": "Protože věříš",
+                "children": []
               },
               {
                 "filename": "matecna_samota_023.md",
@@ -329,8 +330,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Nejde o milence jde o touhu"
+                "title": "Nejde o milence jde o touhu",
+                "children": []
               },
               {
                 "filename": "matecna_samota_024.md",
@@ -342,8 +343,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Už skoro jsme co navlékáme"
+                "title": "Už skoro jsme co navlékáme",
+                "children": []
               },
               {
                 "filename": "matecna_samota_025.md",
@@ -355,8 +356,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Za patami přátel zbyl smutek"
+                "title": "Za patami přátel zbyl smutek",
+                "children": []
               },
               {
                 "filename": "matecna_samota_026.md",
@@ -368,8 +369,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Osiky se v poledne chvěly a dýchaly"
+                "title": "Osiky se v poledne chvěly a dýchaly",
+                "children": []
               },
               {
                 "filename": "matecna_samota_027.md",
@@ -381,8 +382,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Ta vteřina byla slunná a vlídná"
+                "title": "Ta vteřina byla slunná a vlídná",
+                "children": []
               },
               {
                 "filename": "matecna_samota_028.md",
@@ -394,8 +395,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Pořád někdo je a není"
+                "title": "Pořád někdo je a není",
+                "children": []
               },
               {
                 "filename": "matecna_samota_029.md",
@@ -407,8 +408,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "To se ti podobá"
+                "title": "To se ti podobá",
+                "children": []
               },
               {
                 "filename": "matecna_samota_030.md",
@@ -420,8 +421,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Tvoje stáří je starší"
+                "title": "Tvoje stáří je starší",
+                "children": []
               },
               {
                 "filename": "matecna_samota_031.md",
@@ -433,8 +434,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Co pustých jeskyní"
+                "title": "Co pustých jeskyní",
+                "children": []
               },
               {
                 "filename": "matecna_samota_032.md",
@@ -446,8 +447,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Je ti sedmnáct"
+                "title": "Je ti sedmnáct",
+                "children": []
               },
               {
                 "filename": "matecna_samota_033.md",
@@ -459,8 +460,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Slunná vůně dubna"
+                "title": "Slunná vůně dubna",
+                "children": []
               },
               {
                 "filename": "matecna_samota_034.md",
@@ -472,8 +473,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Vymknout se nebo uhnout"
+                "title": "Vymknout se nebo uhnout",
+                "children": []
               },
               {
                 "filename": "matecna_samota_035.md",
@@ -485,8 +486,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "A komu co říct"
+                "title": "A komu co říct",
+                "children": []
               }
             ]
           },
@@ -512,8 +513,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Zaliti v světle říjnového lesa"
+                "title": "Zaliti v světle říjnového lesa",
+                "children": []
               },
               {
                 "filename": "matecna_samota_038.md",
@@ -525,8 +526,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Dnes v noci jsi bořil"
+                "title": "Dnes v noci jsi bořil",
+                "children": []
               },
               {
                 "filename": "matecna_samota_039.md",
@@ -538,8 +539,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Měkce se šíří povětří"
+                "title": "Měkce se šíří povětří",
+                "children": []
               },
               {
                 "filename": "matecna_samota_040.md",
@@ -551,8 +552,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "V poledne jsem seděla na lavičce"
+                "title": "V poledne jsem seděla na lavičce",
+                "children": []
               },
               {
                 "filename": "matecna_samota_041.md",
@@ -564,8 +565,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Zítra tě uvidím"
+                "title": "Zítra tě uvidím",
+                "children": []
               },
               {
                 "filename": "matecna_samota_042.md",
@@ -577,8 +578,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Zítra tě uvidím"
+                "title": "Zítra tě uvidím",
+                "children": []
               },
               {
                 "filename": "matecna_samota_043.md",
@@ -590,8 +591,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Ještě pořád jsi krásný"
+                "title": "Ještě pořád jsi krásný",
+                "children": []
               },
               {
                 "filename": "matecna_samota_044.md",
@@ -603,8 +604,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Po celou cestu jsem hleděla"
+                "title": "Po celou cestu jsem hleděla",
+                "children": []
               },
               {
                 "filename": "matecna_samota_045.md",
@@ -616,8 +617,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Vracet se třicet let"
+                "title": "Vracet se třicet let",
+                "children": []
               },
               {
                 "filename": "matecna_samota_046.md",
@@ -629,8 +630,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Tvoje paže a jemné prsty"
+                "title": "Tvoje paže a jemné prsty",
+                "children": []
               },
               {
                 "filename": "matecna_samota_047.md",
@@ -642,8 +643,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Nakonec"
+                "title": "Nakonec",
+                "children": []
               },
               {
                 "filename": "matecna_samota_048.md",
@@ -655,8 +656,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Blížíš se ke mně"
+                "title": "Blížíš se ke mně",
+                "children": []
               },
               {
                 "filename": "matecna_samota_049.md",
@@ -668,8 +669,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Zjara ještě stará dáma"
+                "title": "Zjara ještě stará dáma",
+                "children": []
               },
               {
                 "filename": "matecna_samota_050.md",
@@ -681,8 +682,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Odnést si"
+                "title": "Odnést si",
+                "children": []
               },
               {
                 "filename": "matecna_samota_051.md",
@@ -694,8 +695,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Rozšlapané sandály muže"
+                "title": "Rozšlapané sandály muže",
+                "children": []
               }
             ]
           },
@@ -721,8 +722,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "α"
+                "title": "α",
+                "children": []
               },
               {
                 "filename": "matecna_samota_054.md",
@@ -734,8 +735,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "β"
+                "title": "β",
+                "children": []
               },
               {
                 "filename": "matecna_samota_055.md",
@@ -747,8 +748,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "χ "
+                "title": "χ ",
+                "children": []
               },
               {
                 "filename": "matecna_samota_056.md",
@@ -760,8 +761,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "δ"
+                "title": "δ",
+                "children": []
               },
               {
                 "filename": "matecna_samota_057.md",
@@ -773,8 +774,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "ε"
+                "title": "ε",
+                "children": []
               },
               {
                 "filename": "matecna_samota_058.md",
@@ -786,8 +787,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "η"
+                "title": "η",
+                "children": []
               }
             ]
           },
@@ -813,8 +814,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Zahrada bílá zelenící"
+                "title": "Zahrada bílá zelenící",
+                "children": []
               },
               {
                 "filename": "matecna_samota_061.md",
@@ -826,8 +827,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Udržet tvar za každou cenu"
+                "title": "Udržet tvar za každou cenu",
+                "children": []
               },
               {
                 "filename": "matecna_samota_062.md",
@@ -839,8 +840,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Oni jsou ještě polobozi"
+                "title": "Oni jsou ještě polobozi",
+                "children": []
               },
               {
                 "filename": "matecna_samota_063.md",
@@ -852,8 +853,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Jednou"
+                "title": "Jednou",
+                "children": []
               },
               {
                 "filename": "matecna_samota_064.md",
@@ -865,8 +866,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "V tom snu"
+                "title": "V tom snu",
+                "children": []
               },
               {
                 "filename": "matecna_samota_065.md",
@@ -878,8 +879,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Horko"
+                "title": "Horko",
+                "children": []
               },
               {
                 "filename": "matecna_samota_066.md",
@@ -891,8 +892,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Pokolikáté kavárna na pobřeží"
+                "title": "Pokolikáté kavárna na pobřeží",
+                "children": []
               },
               {
                 "filename": "matecna_samota_067.md",
@@ -904,8 +905,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Nejspíš neměli na čem sedět"
+                "title": "Nejspíš neměli na čem sedět",
+                "children": []
               },
               {
                 "filename": "matecna_samota_068.md",
@@ -917,8 +918,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Po tom prvním"
+                "title": "Po tom prvním",
+                "children": []
               },
               {
                 "filename": "matecna_samota_069.md",
@@ -930,8 +931,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Snuji svoje pavučiny"
+                "title": "Snuji svoje pavučiny",
+                "children": []
               },
               {
                 "filename": "matecna_samota_070.md",
@@ -943,8 +944,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Všechno začalo nevinně"
+                "title": "Všechno začalo nevinně",
+                "children": []
               },
               {
                 "filename": "matecna_samota_071.md",
@@ -956,8 +957,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": true,
-                "children": [],
-                "title": "Bez záruk trvat na svém"
+                "title": "Bez záruk trvat na svém",
+                "children": []
               }
             ]
           },
@@ -975,7 +976,8 @@
           }
         ]
       }
-    ]
+    ],
+    "replacements": []
   },
   "epub": {
     "metadata": {
@@ -983,7 +985,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Viola Fischerová",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-01-18T23:00:00.000Z"
+      "modified": "2021-01-19T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -1476,7 +1478,10 @@
       "_idGenObjectStyleOverride-1",
       "_idGenParaOverride-1"
     ],
-    "github": null,
-    "generatedAt": 1653403356645
+    "github": {
+      "user": "books-are-next",
+      "repo": "fischerova-matecna-samota-new"
+    },
+    "generatedAt": 1655978364026
   }
 }

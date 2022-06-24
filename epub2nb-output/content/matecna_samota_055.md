@@ -5,34 +5,34 @@ contentType: poetry
 
 <section>
 
-Už jsi dvojí  
-Už tě čas rozštípnul
+> Už jsi dvojí  
+> Už tě čas rozštípnul
 
 </section>
 
 <section>
 
-Můj skvělý milenec  
-a stařec jenž přežil  
-svou smrt
+> Můj skvělý milenec  
+> a stařec jenž přežil  
+> svou smrt
 
 </section>
 
 <section>
 
-Jsi dvojí
+> Jsi dvojí
 
 </section>
 
 <section>
 
-Bdělé sny za nocí hojí  
-lásku i bodné rány
+> Bdělé sny za nocí hojí  
+> lásku i bodné rány
 
 </section>
 
 <section>
 
-Naše obojí
+> Naše obojí
 
 </section>

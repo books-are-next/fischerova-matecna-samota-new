@@ -6,25 +6,37 @@ contentType: poetry
 
 <section>
 
+>   
+
+</section>
+
+<section>
+
+>   
+
+</section>
+
+<section>
+
 Za patami přátel zbyl smutek
 
-odešli z domku na vinici  
-se svými dětmi kufry a hlasy
+> odešli z domku na vinici  
+> se svými dětmi kufry a hlasy
 
 </section>
 
 <section>
 
-stoupá samota  
-volno pro mrtvého s jeho rancem  
-roků nocí a dní
+> stoupá samota  
+> volno pro mrtvého s jeho rancem  
+> roků nocí a dní
 
 </section>
 
 <section>
 
-pijeme ji  
-polykáme co máme  
-nemůžeme se dosytit
+> pijeme ji  
+> polykáme co máme  
+> nemůžeme se dosytit
 
 </section>

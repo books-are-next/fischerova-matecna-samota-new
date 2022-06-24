@@ -6,59 +6,71 @@ contentType: poetry
 
 <section>
 
+>   
+
+</section>
+
+<section>
+
+>   
+
+</section>
+
+<section>
+
 Dnes v noci jsi bořil
 
-tři zčernalé cihlové domy  
-na svahu v lese
+> tři zčernalé cihlové domy  
+> na svahu v lese
 
 </section>
 
 <section>
 
-Dívala jsem se  
-na propadlé stropy  
-porostlé býlím
+> Dívala jsem se  
+> na propadlé stropy  
+> porostlé býlím
 
 </section>
 
 <section>
 
-a jak jsi v ohybu klínil  
-čerstvé bělavé trámy  
-pravoúhle a přesně
+> a jak jsi v ohybu klínil  
+> čerstvé bělavé trámy  
+> pravoúhle a přesně
 
 </section>
 
 <section>
 
-jak jsi byl dvakrát  
-a mne pak objal  
-jenom ten jeden
+> jak jsi byl dvakrát  
+> a mne pak objal  
+> jenom ten jeden
 
 </section>
 
 <section>
 
-živý
+> živý
 
 </section>
 
 <section>
 
-a jak jsem se ti vymknula  
-z těch pevných nahých paží
+> a jak jsem se ti vymknula  
+> z těch pevných nahých paží
 
 </section>
 
 <section>
 
-před tím druhým
+> před tím druhým
 
 </section>
 
 <section>
 
-Je snazší to napsat  
-než prožít
+> Je snazší to napsat  
+> než prožít
 
 </section>

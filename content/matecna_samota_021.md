@@ -6,41 +6,29 @@ contentType: poetry
 
 <section>
 
->   
-
-</section>
-
-<section>
-
->   
-
-</section>
-
-<section>
-
 _Kurtovi_
 
 Jsem pokojná a mírná
 
-> dva mrtví na mne doléhají  
-> jako jedlý papír  
-> bílí a ploší  
-> jako perníkoví Mikuláši zezadu
+dva mrtví na mne doléhají  
+jako jedlý papír  
+bílí a ploší  
+jako perníkoví Mikuláši zezadu
 
 </section>
 
 <section>
 
-> Dostávám jim  
-> a nechybím
+Dostávám jim  
+a nechybím
 
 </section>
 
 <section>
 
-> Jenom se vyhnout  
-> Jednomu doteku  
-> oblému rameni  
-> oblé paži
+Jenom se vyhnout  
+Jednomu doteku  
+oblému rameni  
+oblé paži
 
 </section>

@@ -6,45 +6,33 @@ contentType: poetry
 
 <section>
 
->   
-
-</section>
-
-<section>
-
->   
-
-</section>
-
-<section>
-
 Co si počneme Pane
 
-> s tou divokou úzkostí  
-> která se valila rozlila  
-> a volá k nebi
+s tou divokou úzkostí  
+která se valila rozlila  
+a volá k nebi
 
 </section>
 
 <section>
 
-> Teď se skloň Pane  
-> a do Boží dlaně naber  
-> všechny své vyděšené mrtvé
+Teď se skloň Pane  
+a do Boží dlaně naber  
+všechny své vyděšené mrtvé
 
 </section>
 
 <section>
 
-> Buď jim domem chlévem polem i keřem  
-> a dej ať je do jednoho nalezneme  
-> už bez smrti  
-> a sladce zkonejšené
+Buď jim domem chlévem polem i keřem  
+a dej ať je do jednoho nalezneme  
+už bez smrti  
+a sladce zkonejšené
 
 </section>
 
 <section>
 
-> Amen
+Amen
 
 </section>

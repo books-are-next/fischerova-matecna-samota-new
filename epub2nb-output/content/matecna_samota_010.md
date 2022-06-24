@@ -6,31 +6,19 @@ contentType: poetry
 
 <section>
 
->   
-
-</section>
-
-<section>
-
->   
-
-</section>
-
-<section>
-
 Být v Tobě
 
-> abys byl kolem  
-> a ve mně
+abys byl kolem  
+a ve mně
 
 </section>
 
 <section>
 
-> Kmen  
-> kterým cítěna  
-> cítím  
-> a v kruzích rostu  
-> tam
+Kmen  
+kterým cítěna  
+cítím  
+a v kruzích rostu  
+tam
 
 </section>

@@ -92,7 +92,7 @@ tocBase:
         children:
           - link: matecna_samota_007.html
             title: U domu dětství
-            hiddenTitle: false
+            hiddenTitle: true
           - link: matecna_samota_008.html
             title: Pane nejsem hodna
             hiddenTitle: true

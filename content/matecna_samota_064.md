@@ -6,35 +6,47 @@ contentType: poetry
 
 <section>
 
+>   
+
+</section>
+
+<section>
+
+>   
+
+</section>
+
+<section>
+
 _Pavlovi_
 
 V tom snu
 
-jsi přiběhl živý  
-Hltali jsme se a milovali  
-na chodníku i na postelích
+> jsi přiběhl živý  
+> Hltali jsme se a milovali  
+> na chodníku i na postelích
 
 </section>
 
 <section>
 
-V tom snu  
-šeptala jsem ti do vlasů  
-jsi byl mrtvý
+> V tom snu  
+> šeptala jsem ti do vlasů  
+> jsi byl mrtvý
 
 </section>
 
 <section>
 
-V tom snu  
-jsme oba zaplakali  
-nad lítostí
+> V tom snu  
+> jsme oba zaplakali  
+> nad lítostí
 
 </section>
 
 <section>
 
-která nám zaživa  
-kopala hrob
+> která nám zaživa  
+> kopala hrob
 
 </section>

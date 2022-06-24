@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-Je to  
-ještě prázdný hřbitov?
+> Je to  
+> ještě prázdný hřbitov?
 
 </section>
 
 <section>
 
-Nebo jabloňový sad  
-obehnaný zdí
+> Nebo jabloňový sad  
+> obehnaný zdí
 
 </section>
 
 <section>
 
-Hřbitov na podzim  
-s řadami jabloní
+> Hřbitov na podzim  
+> s řadami jabloní
 
 </section>
 
 <section>
 
-A plody na větvích  
-ponechali ptákům?
+> A plody na větvích  
+> ponechali ptákům?
 
 </section>

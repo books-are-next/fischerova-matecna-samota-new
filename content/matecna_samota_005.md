@@ -5,6 +5,18 @@ contentType: poetry
 
 <section>
 
+>   
+
+</section>
+
+<section>
+
+>   
+
+</section>
+
+<section>
+
 _V kolika barvách tu vidíš fialovou  
 v tolika dnech uplyne léto  
 z červenavé po černou  

@@ -82,7 +82,7 @@ readingOrder:
   - matecna_samota_069.html
   - matecna_samota_070.html
   - matecna_samota_071.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

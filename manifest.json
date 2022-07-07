@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-matecna-samota-0d24c70",
-  "revision": "0d24c70",
+  "identifier": "fischerova-matecna-samota-4818c9f",
+  "revision": "4818c9f",
   "readingOrder": [
     "promo.html",
     "matecna_samota_005.html",
@@ -79,11 +79,11 @@
     "matecna_samota_069.html",
     "matecna_samota_070.html",
     "matecna_samota_071.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 24 2022 14:22:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656080555180
+    "date": "Thu Jul 07 2022 08:23:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182200056
   },
   "documents": [
     {
@@ -1427,7 +1427,7 @@
       "role": "chapter",
       "order": 67,
       "prev": "matecna_samota_070.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1440,11 +1440,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 135,
-      "chars": 885,
+      "chars": 884,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "matecna_samota_071.html",
       "next": null,
@@ -1461,9 +1461,9 @@
   ],
   "totals": {
     "all": {
-      "words": 2504,
-      "chars": 12905,
-      "ideas": 707
+      "words": 2625,
+      "chars": 13682,
+      "ideas": 723
     },
     "chapters": {
       "words": 2363,

@@ -13,6 +13,7 @@ meta:
   contentType: poetry
   publisherShort: mkp
   edition: poezie
+  isbn: 978-80-274-2680-5
 readingOrder:
   - promo.html
   - matecna_samota_005.html

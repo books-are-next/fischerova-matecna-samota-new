@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-matecna-samota-ae32ce8",
-  "revision": "ae32ce8",
+  "identifier": "fischerova-matecna-samota-76225c0",
+  "revision": "76225c0",
   "readingOrder": [
     "promo.html",
     "matecna_samota_005.html",
@@ -82,8 +82,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:51:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923897267
+    "date": "Fri Oct 07 2022 13:54:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150845243
   },
   "documents": [
     {

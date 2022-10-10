@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-matecna-samota-76225c0",
-  "revision": "76225c0",
+  "identifier": "fischerova-matecna-samota-aaa7daa",
+  "revision": "aaa7daa",
   "readingOrder": [
     "promo.html",
     "matecna_samota_005.html",
@@ -82,8 +82,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:54:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150845243
+    "date": "Mon Oct 10 2022 15:46:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416760523
   },
   "documents": [
     {
@@ -1442,7 +1442,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 137,
-      "chars": 922,
+      "chars": 923,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -1462,7 +1462,7 @@
   "totals": {
     "all": {
       "words": 2627,
-      "chars": 13720,
+      "chars": 13721,
       "ideas": 722
     },
     "chapters": {
